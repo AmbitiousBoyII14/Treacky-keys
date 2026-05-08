@@ -18,6 +18,12 @@
       "usedBy": "",
       "maxDevices": 1
     },
+    "2026": {
+      "expiry": "2026-05-10",
+      "used": false,
+      "usedBy": "",
+      "maxDevices": 1
+    },
     "VVIP": {
       "expiry": "2026-12-31",
       "used": false,
