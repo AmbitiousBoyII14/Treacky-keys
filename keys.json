@@ -12,14 +12,14 @@
       "usedBy": "device_xyz",
       "maxDevices": 1
     },
-    "VVIP": {
-      "expiry": "10",
+    "PREMIUM-2025": {
+      "expiry": "2026-05-21",
       "used": false,
       "usedBy": "",
       "maxDevices": 1
     },
-    "PREMIUM-2025": {
-      "expiry": "2026-05-21",
+    "VVIP": {
+      "expiry": "2026-12-31",
       "used": false,
       "usedBy": "",
       "maxDevices": 1
