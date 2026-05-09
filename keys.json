@@ -1,9 +1,9 @@
 {
-  "153": {
-    "expiry": "2026-05-15",
+  "2026": {
+    "expiry": "2026-05-10",
     "used": false,
     "usedBy": "",
-    "maxDevices": 1
+    "maxDevices": 2
   },
   "SYAMTHANDA": {
     "expiry": "2026-12-31",
@@ -15,6 +15,12 @@
     "expiry": "2026-05-21",
     "used": false,
     "usedBy": "",
+    "maxDevices": 1
+  },
+  "VIP-KEY-2024": {
+    "expiry": "2024-12-31",
+    "used": true,
+    "usedBy": "device_xyz",
     "maxDevices": 1
   }
 }
