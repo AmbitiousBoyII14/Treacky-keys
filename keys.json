@@ -1,9 +1,9 @@
 {
   "2026": {
-    "expiry": "2026-05-10",
+    "expiry": "2026-05-09",
     "used": false,
     "usedBy": "",
-    "maxDevices": 2
+    "maxDevices": 1
   },
   "SYAMTHANDA": {
     "expiry": "2026-12-31",
